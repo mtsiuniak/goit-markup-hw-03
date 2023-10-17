@@ -75,8 +75,7 @@ body {
     display: inline-flex;
     align-items: flex-start;
     gap: 40px;
-    padding-top: 24px;
-    padding-bottom: 24px;
+    padding: 24px 0;
 }
 
 .nav-menu .link {
@@ -316,12 +315,13 @@ width: calc((100% - 72px) / 4);
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
+    
 }
 
 .portfolio-items {
 display: flex;
 flex-direction: column;
-padding-bottom: 0px;
+
 border: 1px solid  #E7E9FC;
 background: #FFFFFF;
 width: calc((100% - 48px) / 3);
