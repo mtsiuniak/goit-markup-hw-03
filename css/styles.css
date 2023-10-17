@@ -65,7 +65,7 @@ body {
     display: flex;
     padding: 0 24px;
     align-items: center;
-    padding: 24px 0;
+    
 }
 .adrress-container {
     display: flex;
@@ -76,7 +76,7 @@ body {
     display: inline-flex;
     align-items: flex-start;
     gap: 40px;
-    
+    padding: 24px 0;
 }
 
 .nav-menu .link {
