@@ -61,7 +61,7 @@ body {
     color: #2E2F42;
 }
 
-.navigation-menu {
+.navigation{
     display: flex;
     padding: 0 24px;
     align-items: center;
@@ -72,7 +72,7 @@ body {
     align-items: center;
 }
 
-.nav-menu {
+.navigation-menu {
     display: inline-flex;
     align-items: flex-start;
     gap: 40px;
