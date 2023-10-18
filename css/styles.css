@@ -71,12 +71,14 @@ body {
     display: flex;
     align-items: center;
 }
+.navigation-item {
+    padding: 24px 0;
+}
 
 .navigation-menu {
     display: inline-flex;
     align-items: center;
     gap: 40px;
-    padding: 24px 0;
 }
 
 .nav-menu .link {
