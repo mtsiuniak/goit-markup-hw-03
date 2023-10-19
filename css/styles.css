@@ -336,10 +336,8 @@ width: calc((100% - 72px) / 4);
 }
 
 .portfolio-items {
-/* margin: 0 auto; */
-width: calc((100% - 72px) / 3);
-/* background: #FFFFFF;
-border: 1px solid  #E7E9FC; */
+    
+width: calc((100% - 48px) / 3);
 }
 
 .portfolio-img {
