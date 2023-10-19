@@ -69,14 +69,12 @@ body {
     display: flex;
     align-items: center;
 }
-.navigation-item {
-    padding: 24px 0;
-}
+
 
 
 .navigation-menu {
     display: flex;
-    align-items: center;
+    padding: 24px 0;
     gap: 40px;
    
 }
