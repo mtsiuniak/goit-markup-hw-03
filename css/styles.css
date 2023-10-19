@@ -63,18 +63,22 @@ body {
 .navigation{
     display: flex;
     align-items: center;
-        padding: 24px 0;
+       
 }
 .adrress-container {
     display: flex;
     align-items: center;
 }
+.navigation-item {
+    padding: 24px 0;
+}
 
 
 .navigation-menu {
-    display: inline-flex;
+    display: flex;
     align-items: center;
     gap: 40px;
+   
 }
 
 .nav-menu .link {
@@ -83,6 +87,7 @@ body {
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.32px;
+    
 }
 
 .nav-menu .link:hover,
