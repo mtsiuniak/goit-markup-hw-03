@@ -340,7 +340,7 @@ width: calc((100% - 72px) / 4);
 
 .portfolio-items {
 
-width: calc((100% - 48px) / 3);
+width: calc((100%-(2*(3*24px)))/6);
 }
 
 .portfolio-img {
