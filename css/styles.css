@@ -75,7 +75,10 @@ body {
     display: flex;
     gap: 40px;
 }
-.navigation-item {
+.navigation-menu .link{
+    padding: 24px 0;
+}
+.navigation-item, .contact-item {
     padding: 24px 0;
 }
 
