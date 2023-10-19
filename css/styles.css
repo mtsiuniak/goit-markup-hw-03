@@ -324,6 +324,7 @@ width: calc((100% - 72px) / 4);
     letter-spacing: 0.72px;
     text-transform: capitalize;
     margin-bottom: 72px;
+    
 }
 
 .portfolio-list {
@@ -331,6 +332,8 @@ width: calc((100% - 72px) / 4);
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
+    margin: 0;
+    padding: 0;
     
 }
 
