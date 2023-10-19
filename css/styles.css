@@ -63,6 +63,7 @@ body {
 .navigation{
     display: flex;
     align-items: center;
+        padding: 24px 0;
 }
 .adrress-container {
     display: flex;
@@ -74,7 +75,6 @@ body {
     display: inline-flex;
     align-items: center;
     gap: 40px;
-    padding: 24px 0;
 }
 
 .nav-menu .link {
@@ -335,10 +335,12 @@ width: calc((100% - 72px) / 4);
 .portfolio-items {
 /* display: flex;
 flex-direction: column; */
-border: 1px solid  #E7E9FC;
-background: #FFFFFF;
+margin: 0 auto;
 width: calc((100% - 48px) / 3);
+background: #FFFFFF;
+border: 1px solid  #E7E9FC;
 }
+
 .portfolio-img {
     width: 100%;
 }
