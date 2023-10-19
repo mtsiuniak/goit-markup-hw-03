@@ -334,8 +334,8 @@ width: calc((100% - 72px) / 4);
     
 }
 
-.portfolio-item {
-width: 24px;
+.portfolio-four-sec {
+width: calc((100% - 48px) / 3);
 }
 
 
