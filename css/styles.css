@@ -354,7 +354,9 @@ width: calc((100% - 72px) / 4);
     border-top: none;
 }
 
-
+.portfolio-img {
+    width: 100%;
+}
 
 .portfolio-info {
     color: #2E2F42;
