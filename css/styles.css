@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6, p {
 
 img {
     display: block;
-    max-width: 100%;
+    min-width: 100%;
 }
 button {
     cursor: pointer;
@@ -354,9 +354,6 @@ width: calc((100% - 72px) / 4);
     border-top: none;
 }
 
-.portfolio-img {
-    width: 100%;
-}
 
 .portfolio-info {
     color: #2E2F42;
