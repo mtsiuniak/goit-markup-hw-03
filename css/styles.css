@@ -54,6 +54,7 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     margin-right: 76px;
+    padding: 24px 0;
 }
 
 .logo-studio {
@@ -76,12 +77,10 @@ body {
     display: flex;
     gap: 40px;
 }
-.navigation-menu .link{
+.navigation-link{
     padding: 24px 0;
 }
-.navigation-item, .contact-item {
-    padding: 24px 0;
-}
+
 
 .navigation-menu .link {
     color: #2E2F42;
@@ -115,6 +114,7 @@ body {
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.32px;
+    padding: 24px 0;
 }
 
 .contact-information:hover,
