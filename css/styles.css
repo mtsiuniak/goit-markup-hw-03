@@ -315,6 +315,10 @@ width: calc((100% - 72px) / 4);
 
 }
 
+.portfolio-four-sec {
+    width: calc((100% - 48px) / 3);
+}
+
 .portfolio-title {
     color: #2E2F42;
     text-align: center;
@@ -337,9 +341,6 @@ width: calc((100% - 72px) / 4);
     
 }
 
-.portfolio-four-sec {
-width: calc((100% - 48px) / 3);
-}
 
 
 .portfolio-description {
